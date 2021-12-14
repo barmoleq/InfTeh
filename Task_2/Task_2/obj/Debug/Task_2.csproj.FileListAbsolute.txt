@@ -1,0 +1,10 @@
+C:\Users\Кашевар\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Кашевар\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Кашевар\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Кашевар\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Task_2.csproj.AssemblyReference.cache
+C:\Users\Кашевар\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Task_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Кашевар\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Кашевар\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Task_2.csproj.GenerateResource.cache
+C:\Users\Кашевар\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Task_2.csproj.CoreCompileInputs.cache
+C:\Users\Кашевар\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Кашевар\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

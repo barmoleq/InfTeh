@@ -1,6 +1,0 @@
-D:\barmoleq\VSU\3 Курс\Tasks\Task1\bin\Debug\Task1.exe
-D:\barmoleq\VSU\3 Курс\Tasks\Task1\bin\Debug\Task1.pdb
-D:\barmoleq\VSU\3 Курс\Tasks\Task1\obj\Debug\Task1.csproj.AssemblyReference.cache
-D:\barmoleq\VSU\3 Курс\Tasks\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
-D:\barmoleq\VSU\3 Курс\Tasks\Task1\obj\Debug\Task1.exe
-D:\barmoleq\VSU\3 Курс\Tasks\Task1\obj\Debug\Task1.pdb

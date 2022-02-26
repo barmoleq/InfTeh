@@ -1,0 +1,10 @@
+D:\barmoleq\VSU\3 Курс\Tasks\Task5\bin\Debug\Task5.exe.config
+D:\barmoleq\VSU\3 Курс\Tasks\Task5\bin\Debug\Task5.exe
+D:\barmoleq\VSU\3 Курс\Tasks\Task5\bin\Debug\Task5.pdb
+D:\barmoleq\VSU\3 Курс\Tasks\Task5\obj\Debug\Task5.csproj.AssemblyReference.cache
+D:\barmoleq\VSU\3 Курс\Tasks\Task5\obj\Debug\Task5.csproj.SuggestedBindingRedirects.cache
+D:\barmoleq\VSU\3 Курс\Tasks\Task5\obj\Debug\Task5.Properties.Resources.resources
+D:\barmoleq\VSU\3 Курс\Tasks\Task5\obj\Debug\Task5.csproj.GenerateResource.cache
+D:\barmoleq\VSU\3 Курс\Tasks\Task5\obj\Debug\Task5.csproj.CoreCompileInputs.cache
+D:\barmoleq\VSU\3 Курс\Tasks\Task5\obj\Debug\Task5.exe
+D:\barmoleq\VSU\3 Курс\Tasks\Task5\obj\Debug\Task5.pdb

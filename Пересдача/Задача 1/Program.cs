@@ -57,9 +57,9 @@ namespace Task1
 
         static void Main()
         {
-            int[,] arr = {{3, 4, 9, 10}, 
-                           {2, 5, 8,11},
-                           {1, 6, 7, 12}};
+            int[,] arr = {{8, 9, 20, 21}, 
+                           {6, 10, 18,22},
+                           {4, 13, 15, 25}};
             List<int> num = new List<int>();
             createdArr(arr, num);
             checkSequence(num);
